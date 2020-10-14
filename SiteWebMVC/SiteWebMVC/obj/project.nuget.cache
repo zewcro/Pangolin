@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ostMwQIh/vqfnLykOJiFG+WQKG1Jau/MwfD3RRrPxgrkOOJYNXPXgKx/1rw7TWvqe9YqyqG8qXa4WAgvCdWWcA==",
+  "success": true,
+  "projectFilePath": "/Users/theo/Desktop/SiteWebMVC/SiteWebMVC/SiteWebMVC.csproj",
+  "expectedPackageFiles": [
+    "/Users/theo/.nuget/packages/newtonsoft.json/12.0.3/newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
